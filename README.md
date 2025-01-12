@@ -1,4 +1,4 @@
-# My PowerBI Sales Analysis Dashboard
+# My PowerBI Ecommerce Sales Analysis Dashboard
 
 • Created interactive dashboard using Power BI to track and analyze online sales data.
 
